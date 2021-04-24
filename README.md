@@ -14,6 +14,7 @@ Navigate to a Github profile and copy&paste [script.js](script.js) into dev cons
 ## Other, more interesting, Bad Apple!! on X
 - https://youtu.be/ko0z3SfXpm8
 - https://youtu.be/r-axdVfM0c0
+- https://youtu.be/tO6sfku_1b8
 
 ## Issues when running
 Github CSP rules do not allow for websocket connections on localhost. Use
