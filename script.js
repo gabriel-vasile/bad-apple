@@ -1,6 +1,6 @@
-// async/await is too complicated for monke brain, so it uses some perfectly timed
-// setIntervals and setTimeouts.
-// This code works today. There are big chances it will not work in the future.
+// async/await is too complicated for monke brain, so this script uses some 
+// perfectly timed setIntervals and setTimeouts.
+// This code works today april 26, 2021. There are big chances it will not work in the future.
 var svgns = "http://www.w3.org/2000/svg";
 var svg = document.getElementsByClassName('js-calendar-graph-svg')[0]
 var g = svg.children[0];
